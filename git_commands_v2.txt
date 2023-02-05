@@ -10,3 +10,8 @@ BRANCH and MERGE
 -git checkout
 -git merge <branch>
 -git log
+INSPECT and COMPARE
+-git log branchB..branchA
+-git log --follow <file>
+-git diff branchB...branchA
+-git show <SHA>
