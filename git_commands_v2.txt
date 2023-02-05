@@ -3,3 +3,10 @@
 -git reset <file>
 -git diff
 -git diff --staged
+-git commit -m "<descriptive message>"
+BRANCH and MERGE
+-git branch
+-git branch <branch-name>
+-git checkout
+-git merge <branch>
+-git log
